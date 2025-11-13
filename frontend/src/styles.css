@@ -1,0 +1,28 @@
+body {
+  background-color: #f8f9fc;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.table thead th {
+  background-color: #007bff !important;
+  color: white;
+}
+
+.card {
+  background-color: white;
+  border-radius: 12px;
+}
+
+footer {
+  color: #6c757d;
+}
