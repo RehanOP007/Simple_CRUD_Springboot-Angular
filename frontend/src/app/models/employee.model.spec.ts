@@ -1,7 +1,5 @@
 import { Employee } from './employee.model';
 
 describe('Employee', () => {
-  it('should create an instance', () => {
-    expect(new Employee()).toBeTruthy();
-  });
+  // No tests needed for interfaces, as they are purely for type checking.
 });
